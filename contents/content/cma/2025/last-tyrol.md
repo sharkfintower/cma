@@ -65,24 +65,6 @@ Waltherplatz. Lots of interesting ideas about bikes. New Michael was doing
 a ride from home, over the Reschenpass, then taking the train back.
 Really cool.
 
-{% image /cmaimages/2025/1_IMG_3667.jpg %}
-*People descending from Ritzlar to the Schutzhaus Latzfonser Kreuz*
-
-{% image /cmaimages/2025/2_IMG_3674.jpg %}
-*Ritzlar summit panorama, Kassianspitz in the background*
-
-{% image /cmaimages/2025/3_IMG_3676.jpg %}
-*A stormy look off to the northwest*
-
-{% image /cmaimages/2025/4_IMG_3679.jpg %}
-*A closeup on a shoulder of the Kassianspitz*
-
-{% image /cmaimages/2025/5_IMG_3683.jpg %}
-*The iceberg lake just beneath the Kassianspitz summit*
-
-{% image /cmaimages/2025/6_IMG_3704.jpg %}
-*Pizza Monica!*
-
 ## Day Two: a nice walk to Oberbozen
 
 Since Michael had to be back in town in the evening, we did something easy that
