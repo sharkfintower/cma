@@ -10,6 +10,9 @@ location:
   - City of Rocks
 ---
 
+
+
+
 ## September 17
 
 Steve and I hiked with Dotti up to the east side of the Breadloves and
@@ -17,6 +20,13 @@ climbed two delightful sport climbs:
 
 * DaBoyz 5.7
 * Wind Dance 5.7
+
+{% image /cmaimages/2025/25_IMG_5845.jpg %}
+*Dotti on Wind Dance*
+
+{% image /cmaimages/2025/24_IMG_5851.jpg %}
+*Close up...*
+
 
 Then we drove over to Elephant Rock and all got in a run on
 **Strawberry Fields (5.9)**. Dotti headed home, and we got the trad rack
@@ -30,6 +40,12 @@ Now it was time for me to try my hand at **Rye Crisp (5.8)**. I had two
 #3 Camelots and a #4 too. Wonderful climbing wih two big flakes which
 you undercling to the left. Near the top I took the rightmost crack.
 Absolutely fantastic -- it is a well-deserved classic of the area!
+
+{% image /cmaimages/2025/23_IMG_5863.jpg %}
+*Steve on the wonderful Strawberry Fields*
+
+{% image /cmaimages/2025/22_IMG_5864.jpg %}
+*Here you can kinda see climbers on Wheat Thin and Steve over on the right*
 
 After this, we went over to **Crystalline Undulations (5.8)**, a two pitch
 climb on Bath Rock. I think Steve kept me on lead for these both, just so I
@@ -49,9 +65,25 @@ so the protection was just right. It was fun watching Steve climb up this from
 the belay right at the top of the vertical channel. Steve made a short final
 pitch and soon we were on top.
 
+{% image /cmaimages/2025/21_IMG_5885.jpg %}
+*Steinfell's Dome in the morning light*
+
+{% image /cmaimages/2025/20_IMG_5888.jpg %}
+*Steve on an initial pitch of Sinocranium*
+
+{% image /cmaimages/2025/19_IMG_5892.jpg %}
+*Steve coming up the marvellous pitch four!*
+
+
 After a couple (maybe 3?) rappels, we walked by **Felspfeiler (5.8-)**. Steve
 sent me up, and I had trouble about halfway up, finally just pulling on a
 bolt. So this climb has the A0 rating for me!
+
+{% image /cmaimages/2025/18_IMG_5901.jpg %}
+*Rapping down...*
+
+{% image /cmaimages/2025/17_IMG_5905.jpg %}
+*On Theater of Shadows*
 
 We hiked back down to the base of the 'Dome and walked over to **Theater of Shadows (5.6)**.
 Steve and I had climbed this 25 years before, which is hard to believe!
@@ -62,6 +94,12 @@ of Steinfell's Dome behind me. Steve went for one more pitch, then we rappelled
 from a stance off to climbers right a bit.
 
 A fantastic day.
+
+{% image /cmaimages/2025/16_IMG_5910.jpg %}
+*Higher on the route, what an alpine flavor!*
+
+{% image /cmaimages/2025/15_IMG_5912.jpg %}
+*I just love the adjacent wall, which has a serious look*
 
 ## September 19
 
@@ -82,6 +120,12 @@ This time I placed the #4 Camelot in the wrong place and it was quite tipped
 out as Steve informed me later. But the route felt easier and that was my goal.
 While we were at it, why not climb **Wheat Thin (5.7)** again? So we did.
 
+{% image /cmaimages/2025/14_IMG_5923.jpg %}
+*A climber on Rye Crisp*
+
+{% image /cmaimages/2025/13_IMG_5926.jpg %}
+*I quite liked this compact Palomino truck camper*
+
 Then we went over to climb **Columbian Crack (5.8)**, initially stymied by
 the unprotected chimney at the start. I didn't like it until Steve got the
 idea to throw the rope over the boulder behind the route. This way, the slippery
@@ -98,6 +142,9 @@ climb very much...I'll just have to make my peace with the chimney start.
 
 It started to rain, so we went to get pizza.
 
+{% image /cmaimages/2025/12_IMG_5930.jpg %}
+*An evening walk with sunset at Duane's place*
+
 ## September 21
 
 Steve and I went to Parking Lot Rock and he sent me up **Norma's Book (5.6)**.
@@ -111,6 +158,12 @@ in a crack, too. The second pitch was really nice. We rappelled down to the
 start of the second pitch, then each did a TR on the face off to the right.
 I did another TR there moving further right onto part of **Delay of Game (5.8)**.
 Steve noted that this climb is rather run out, so we didn't do it.
+
+{% image /cmaimages/2025/11_IMG_5934.jpg %}
+*I'm looking down on Norma's Book, a fun climb*
+
+{% image /cmaimages/2025/10_IMG_5939.jpg %}
+*Steve in the upper part of Behold*
 
 Then we reclimbed the pitch to set a gear belay in a chimney to access an
 isolated pitch called **Giggles (5.9)**. This was very fun...balancy at the
@@ -130,6 +183,9 @@ Steve, Ever, Dotti, Jason and I headed out for the "Lost World" on the east
 side of the Drilling Fields. We warmed up on **Tourist Season (5.7)**, then
 Ever and I did **Last of the Lost (5.9)**, both of these are great climbs.
 
+{% image /cmaimages/2025/9_IMG_5943.jpg %}
+*I believe Ever is on Tourist Season here*
+
 Back in July, I had a difficult time on Steve's routes Aurora and Chimera.
 I was back for a rematch! First I enjoyed seeing Dotti solve the slabby
 traverse problem on **Aurora Pitch One (5.9)**. Nice! She was over the moon
@@ -143,6 +199,15 @@ and exhausted himself just as I did back in July. This time I was determined
 to stem in the chimney rather than try any other technique. The stemming was
 elegant, and although Steve didn't think so, I was pretty sure it would be
 hard to hurt myself with the excellent bolting in this section.
+
+{% image /cmaimages/2025/8_IMG_5945.jpg %}
+*Looking down after a lead of Aurora*
+
+{% image /cmaimages/2025/7_IMG_5947.jpg %}
+*Good friends all at the base*
+
+{% image /cmaimages/2025/6_IMG_5948.jpg %}
+*Looking up at the remarkable Chimera*
 
 In fact, Steve denied himself the pleasure of the stem when he led the route,
 though he typically always does a TR so he can do that. He calls it his favorite
@@ -161,6 +226,9 @@ resting from Chimera! This was a neat climb, with little overhangs and
 jugs. We all did a TR of **Swiss Cheese (5.7 R)**, which seems quite run-out
 on the lead.
 
+{% image /cmaimages/2025/5_IMG_5951.jpg %}
+*Ever on Velveeta*
+
 Another great dinner, this time fantastic indian food made by Duane!
 
 ## September 23
@@ -169,11 +237,20 @@ After a quick check to see if we could get on Skyline (no luck!), we were
 back at the Breadloaves in the Super Hits region. We all did a lead on
 **Mystery Achievement (5.7)**, a good climb.
 
+{% image /cmaimages/2025/4_IMG_5958.jpg %}
+*Ropes on Twist and Crawl and on Mystery Achievement*
+
+{% image /cmaimages/2025/3_IMG_5960.jpg %}
+*Looking down from a lead of Twist and Crawl*
+
 We did a few TRs on **Twist and Crawl (5.8)**, then I led **Intruding Dike (5.7)**,
 a great gear/crack route. I'm afraid I stopped too soon though, setting a gear
 belay on the top of a buttress, when I could have stepped across to a bigger
 buttress and gotten in a few more hand jams. We walked down a ways to a single
 rappel.
+
+{% image /cmaimages/2025/1_IMG_5976.jpg %}
+*A climber on Intruding Dike*
 
 We wanted to TR on **Bloody Fingers (5.10a)**, a popular crack climb. To that
 end I led up Twist and Crawl, enjoying the gear placements in the upper section.
@@ -181,6 +258,11 @@ Then Steve, Ever and then myself did TRs on Bloody Fingers. I found it fantastic
 If I had one more day I would have come back to lead it. I'll just have to
 do that in the spring!
 
+{% image /cmaimages/2025/2_IMG_5966.jpg %}
+*Ever on Bloody Fingers*
+
 And so ended a great time at the City. Incredible people. They shine as brightly
 as the rock sings.
+
+
 
