@@ -19,6 +19,12 @@ it was quite thin! Robert led the 60 meter long pitch. It was great fun to
 follow. The upper quarter of the climb had several rock moves and thin ice
 over rock in a chimney. Extremely interesting! We abseiled down...
 
+{% image /cmaimages/2026/7_IMG_6645.jpg %}
+*Robert in Green Gully*
+
+{% image /cmaimages/2026/6_IMG_6650.jpg %}
+*Robert higher in Green Gully*
+
 Then we went over to Blue Gully. I led up this, placing the first screw
 20 meters up, then sometimes travelling a good ways before the next screw
 because of thin ice over rock. Once again, very interesting though
@@ -29,3 +35,8 @@ under snow, suffering crampon-ball-up on our micro-spikes.
 
 On the way back we drove up Trail Creek to return to Bozeman just for fun.
 Gorgeous country.
+
+
+{% image /cmaimages/2026/5_IMG_6652.jpg %}
+*Looking down on "Green Gully"*
+
