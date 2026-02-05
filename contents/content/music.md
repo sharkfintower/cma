@@ -26,6 +26,13 @@ The order is somewhat random. I think the best song is at the top. Then,
 songs I wrote for or with my boys, so I'm proud of those. Then a song
 about Barbara. And then the rest is stuff from my life, here and there.
 
+### Hyalite
+
+After a long time without playing at all, I made this little song after
+dinner in Montana...revisiting the 80s :)
+
+{% audioplayer /assets/music/Hyalite.mp3 %}
+
 ### Dawn Treader
 
 This is my most recent music.
