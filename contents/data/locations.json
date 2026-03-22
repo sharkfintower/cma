@@ -2455,6 +2455,30 @@
           42.08275393137387,
           -113.7105639992529
         ]
+      },
+      {
+        "name": "Jumpoff Peak",
+        "location": [
+          43.75445, -113.10745
+        ]
+      },
+      {
+        "name": "Middle Canyon",
+        "location": [
+          43.87389, -112.96666
+        ]
+      },
+      {
+        "name": "Kinport Peak",
+        "location": [
+          42.80688, -112.48805
+        ]
+      },
+      {
+        "name": "Baldy Mountain",
+        "location": [
+          43.43033, -111.20692
+        ]
       }
     ]
   },
