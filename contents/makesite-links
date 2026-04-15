@@ -1,5 +1,7 @@
 #!/bin/bash
+source startenv.sh
 python makesite.py
+source stopenv.sh
 pushd _site
 ln -s ~/cmaimages cmaimages
 popd
