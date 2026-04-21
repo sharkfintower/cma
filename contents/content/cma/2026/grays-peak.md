@@ -78,6 +78,6 @@ on the ridge and wanted to see something of this region, too.
 Soon we turned onto the Federal Gulch trail, which was not at all overgrown
 in this section anyway.
 
-Kevin headed east, and I west after a short nap. 8.2 miles and 4200 feet up
+Kevin headed west, and I east after a short nap. 8.2 miles and 4200 feet up
 and down today. Big thanks to Kevin, to the mountains, to the Creator!
 
