@@ -6,7 +6,7 @@ layout: post
 guests:
   - Marek
   - Chris
-  - Kevin
+  - Kevin Washington
 location: Mount Rainier
 category: climbing
 ---

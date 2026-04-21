@@ -20,7 +20,7 @@ elevation:
 guests:
   - Georg
   - Ulli
-  - Kevin
+  - Kevin G
 routes:
   - Unknown|Ice|3+,3+,3+,3+
 ---
