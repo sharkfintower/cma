@@ -19,7 +19,7 @@ Kris had a business trip that took her to Provo, and I came along.
 It was mid-November, and pretty cold. While she went to meetings, I escaped
 to the back side of Timpanogos and started hiking up the trail. I ran into
 deep snow about half-way up, and had to call it quits. That was the last time
-I was in Utah. This time, I'd been inspired by X, who climbed the peak with
+I was in Utah. This time, I'd been inspired by Jason, who climbed the peak with
 friends about a month ago. Wow! I'd try to climb it by his route, which is
 the Everest Ridge, so named because some Salt Lake climbers in the 1990s used
 it to train for Mount Everest.
