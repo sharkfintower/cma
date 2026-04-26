@@ -10,6 +10,10 @@ elevation:
   - 2000
 ----
 
+*Video of the trip:*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-ICKW-4Lq1w?si=F4Vo2F0EBozJO7YE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 I'd actually tried to climb this mountain before, 29 years ago in 1997!
 Kris had a business trip that took her to Provo, and I came along.
 It was mid-November, and pretty cold. While she went to meetings, I escaped
