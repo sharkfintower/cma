@@ -2515,6 +2515,24 @@
         "location": [
           43.66966, -114.09458
         ]
+      },
+      {
+        "name": "Paymaster Peak",
+        "location": [
+          43.70579, -114.12975
+        ]
+      },
+      {
+        "name": "Lost River Mountain",
+        "location": [
+          44.04208, -113.65457
+        ]
+      },
+      {
+        "name": "Mortal Earth",
+        "location": [
+          43.72236, -113.07466
+        ]
       }
     ]
   },
