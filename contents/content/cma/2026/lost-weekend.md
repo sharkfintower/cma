@@ -22,12 +22,12 @@ Kevin and family met me around noon at Mortal Earth, the Fins crag for mere mort
 We climbed and set top ropes on two excellent climbs, first "[Heart of Gold](https://www.mountainproject.com/route/113298276/heart-of-gold)" (5.7),
 and then "[Hold the Line](https://www.mountainproject.com/route/113385290/hold-the-line)" (5.8). Logan didn't have rock shoes, so he had a serious
 extra challenge once the footholds got small. So he got to bend the rules a little
-bit and grab a quickdraw if the going got too tough. Ericka enjoyed solving various
+bit and grab a quickdraw if the going got too tough. Erica enjoyed solving various
 climbing problems, and dealt well for the first time with the "cold water" of leaning back on the rope
 to be lowered.
 
 {% image /cmaimages/2026/0_IMG_7810.jpg %}
-*Ericka on "Heart of Gold"*
+*Erica on "Heart of Gold"*
 
 {% image /cmaimages/2026/1_IMG_7812.jpg %}
 *Kevin belaying*
@@ -36,7 +36,7 @@ to be lowered.
 *Logan on a ridgetop tower*
 
 {% image /cmaimages/2026/3_IMG_7817.jpg %}
-*Ericka and her dad*
+*Erica and her dad*
 
 {% image /cmaimages/2026/4_IMG_7825.jpg %}
 *Michael starting up a chimney*
@@ -50,7 +50,7 @@ We lost the sun and were shivering a bit as we packed up to leave. We drove over
 trailhead for Paymaster and Gray's Peak, where Kevin and I had met for the first time just
 two weeks before. Kevin had a cast-iron pot with an amazing turkey stew, and ladled out
 many portions to prepare us for the next day. I fell asleep with many of the great conversations
-through the day had with Kevin and Logan and Ericka.
+through the day had with Kevin and Logan and Erica.
 
 {% image /cmaimages/2026/5_IMG_7830.jpg %}
 *Michael with Kevin*
@@ -97,7 +97,7 @@ At one point we made a story, I'll see if I can give the flavor of it:
 Okay, it just goes on like that -- practically writes itself, and this was our music on that long hillside!
 
 Finally we gained the ridge crest, and our energies lifted. We saw a big summit to the east, and marched to it.
-I gave Ericka a lesson in classic "French Technique" cramponing. On top we were dismayed to see there were not one,
+I gave Erica a lesson in classic "French Technique" cramponing. On top we were dismayed to see there were not one,
 but two summits more on the ridge, including Paymaster. Ach! We set off anyway, though the ridge became tricky.
 There were cornices and rock steps. Eventually the young ones, not so gripped by the quasi-ideological summit
 fever that tightens around the older folks like a noose, had had enough, and declared a rocky bump perched in
