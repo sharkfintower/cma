@@ -10,7 +10,7 @@ elevation:
   - 1285
 guests:
   - Sam R
-  - Josh M
+  - Josh S
   - Logan
 ----
 
