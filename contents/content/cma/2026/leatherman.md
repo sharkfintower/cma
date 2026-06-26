@@ -11,13 +11,13 @@ elevation:
 guests:
   - Sam R
   - Josh S
-  - Logan
+  - Job
 ----
 
 
 Josh suggested a climb of Leatherman soon, and I said "why
 not tomorrow?" Before long we had a plan, along with Sam
-and his son Logan. We'd meet at a key point east of
+and his son Job. We'd meet at a key point east of
 Doublespring Pass on a good dirt road, then continue to the
 trailhead in the morning in Josh's rugged Tacoma.
 
@@ -30,7 +30,7 @@ in that place. I did get a neat picture of Borah in the sunset.
 *Borah the night before...*
 
 {% image /cmaimages/2026/23_IMG_2313.jpg %}
-*Michael, Logan and Josh hiking in*
+*Michael, Job and Josh hiking in*
 
 The next morning we met up at 6 am. Sam and I had gone rock
 climbing once before in Wolverine Canyon, but I hadn't met his
@@ -39,14 +39,14 @@ son, who recently returned from army basic training.
 The road was fine at first, but in the last several miles it
 was slow and painful! We stopped about three-quarters of a mile
 from the official trailhead and started walking. I was cold
-so I went a bit ahead and stood in a sun-patch. Logan came
+so I went a bit ahead and stood in a sun-patch. Job came
 up and we talked about army stuff. He pointed out that a lot
 of "war training" is out of date, being centered around the
 movement of large numbers of troops and equipment. The
 Russia/Ukraine war is showing how archaic that kind of information
 is becoming. We also talked about women serving in combat
 and the subject of [complementarianism](https://en.wikipedia.org/wiki/Complementarianism). Well, actually, I kind of soapboxed
-and Logan listened politely and always called me sir.
+and Job listened politely and always called me sir.
 That is awfully nice!
 
 {% image /cmaimages/2026/22_IMG_9048.jpg %}
@@ -75,10 +75,10 @@ was stable, and we couldn't complain! I do think I like snow
 climbing in the Lost River Range best, but this was still amazing.
 
 {% image /cmaimages/2026/20_IMG_2320.jpg %}
-*Logan approaches the ridge*
+*Job approaches the ridge*
 
 {% image /cmaimages/2026/19_IMG_9056.jpg %}
-*Logan again, with snowfields*
+*Job again, with snowfields*
 
 {% image /cmaimages/2026/18_IMG_9058.jpg %}
 *Josh, only wishing for skis (and more snow)*
@@ -130,7 +130,7 @@ the goal. But we will not mind, because the journey itself
 may be communion.
 
 {% image /cmaimages/2026/16_IMG_9069.jpg %}
-*Sam, Josh and Logan on the ridge*
+*Sam, Josh and Job on the ridge*
 
 {% image /cmaimages/2026/15_IMG_9073.jpg %}
 *Sam found a bit of rock climbing*
@@ -153,7 +153,7 @@ was fine. But I do feel more alive when I push, even if only
 at an obtuse angle, against the grain.
 
 But I digress! Our party has gained the summit ridge, with
-incredible views to the south for the first time. Logan
+incredible views to the south for the first time. Job
 walked a bit behind, being new to this kind of peak bagging,
 though he remained unstoppable. Another 30 minutes and we were
 on top.
@@ -181,7 +181,7 @@ for the other fellas to arrive. So I hopped and scree-skied
 down quickly. After eating my lunch and getting a little cold
 in the shade, I moved into the sun a bit and watched the
 guys coming down. Oh, there was a guy with a snowboard too.
-He came down amid Josh and Logan, turning piorettes and
+He came down amid Josh and Job, turning piorettes and
 making sick jumps and whirlybirds (okay, I'm just making up
 terms here) on the last dregs of snow. He walked by a few
 minutes later, saying it was the most fun he ever had.
@@ -198,7 +198,7 @@ minutes later, saying it was the most fun he ever had.
 {% image /cmaimages/2026/3_14388.jpg %}
 *The LEATHERMEN!*
 
-On the way out Logan and I talked about Israel and Palestine,
+On the way out Job and I talked about Israel and Palestine,
 as you do, keeping things light and all, lol...
 
 What a fantastic time -- huge thanks to Josh for the gray-hair
@@ -211,7 +211,7 @@ Pickles Place, so dang good.
 *Icy refreshment at the truck!*
 
 {% image /cmaimages/2026/0_14379.jpg %}
-*Logan, Sam and Michael*
+*Job, Sam and Michael*
 
 {% image /cmaimages/2026/5_IMG_9103.jpg %}
 *White Cap Peak on the north side of Leatherman Pass*
