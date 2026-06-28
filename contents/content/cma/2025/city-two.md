@@ -4,6 +4,7 @@ date: 2025-9-17
 layout: post
 guests:
   - Steve
+  - Dotti
 category:
   - climbing
 location:
