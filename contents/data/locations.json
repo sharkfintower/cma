@@ -2106,6 +2106,12 @@
 	]
       },
       {
+        "name": "Cannon Mountain",
+        "location": [
+          47.50278, -120.80228
+	]
+      },
+      {
         "name": "Mount Stuart",
         "location": [
           47.477744703452,
