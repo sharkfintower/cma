@@ -22,7 +22,7 @@ description: Climbs and hikes ordered by location
         position: 'topleft'
       }
     }).setView([46.800604, 11.174361], 6);
-  let tileserver = "http://c.tile.thunderforest.com/outdoors/{z}/{x}/{y}.png?apikey=f13bfa644ac14730b74927c01e626a71";
+  let tileserver = "https://c.tile.thunderforest.com/outdoors/{z}/{x}/{y}.png?apikey=f13bfa644ac14730b74927c01e626a71";
 
   // create the tile layer with correct attribution:
   L.tileLayer(tileserver, {
