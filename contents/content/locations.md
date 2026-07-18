@@ -15,13 +15,18 @@ description: Climbs and hikes ordered by location
 <script type="text/javascript">
   {{ locations_code }}
 
+  // iPhone Safari does not support the Fullscreen API used by this plug-in.
+  // Keep the control on desktop browsers, but do not initialize it on phones.
+  const isPhone = /iPhone|iPod|Android.*Mobile|Windows Phone/i.test(navigator.userAgent);
+  const mapOptions = isPhone ? {} : {
+    fullscreenControl: true,
+    fullscreenControlOptions: {
+      position: 'topleft'
+    }
+  };
+
   // create the map object and set the cooridnates of the initial view:
-  let map = L.map('map', {
-      fullscreenControl: true,
-      fullscreenControlOptions: {
-        position: 'topleft'
-      }
-    }).setView([46.800604, 11.174361], 6);
+  let map = L.map('map', mapOptions).setView([46.800604, 11.174361], 6);
   let tileserver = "https://c.tile.thunderforest.com/outdoors/{z}/{x}/{y}.png?apikey=f13bfa644ac14730b74927c01e626a71";
 
   // create the tile layer with correct attribution:
