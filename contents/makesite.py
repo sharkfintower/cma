@@ -35,6 +35,7 @@ import sys
 import json
 import datetime
 import getopt
+import html
 import frontmatter
 import commonmark
 import urllib.parse
@@ -121,6 +122,32 @@ def format_elevation(el):
   string_output = ' + '.join([str(x) + 'm' for x in el])
   return str(total) + 'm = ' + string_output
 
+def format_routes(routes):
+  """Format route metadata as a compact, readable HTML list."""
+  formatted_routes = []
+  for route in asArray(routes):
+    parts = [part.strip() for part in str(route).split('|', 2)]
+    if len(parts) != 3:
+      formatted_routes.append('<li>{}</li>'.format(html.escape(str(route))))
+      continue
+
+    name, rating_system, ratings = parts
+    pitches = [rating.strip() for rating in ratings.split(',') if rating.strip()]
+    pitch_count = len(pitches)
+    pitch_label = 'pitch' if pitch_count == 1 else 'pitches'
+    formatted_routes.append(
+        '<li><strong>{}</strong> <span class="route-system">{}</span>'
+        ' &mdash; {} {}: {}</li>'.format(
+            html.escape(name),
+            html.escape(rating_system),
+            pitch_count,
+            pitch_label,
+            html.escape(', '.join(pitches))))
+
+  if not formatted_routes:
+    return ''
+  return '<ul class="routes">{}</ul>'.format(''.join(formatted_routes))
+
 def process_markdown(text):
   # some markdown files don't begin with '---'. Add this if they appear
   # to have yaml content.
@@ -140,6 +167,7 @@ def process_markdown(text):
   content['formatted_guests'] = friends_with_links(content.get('guests', 'Only God!'))
   content['formatted_location'] = locations_with_links(content.get('location', 'Unrecorded'))
   content['formatted_elevation'] = format_elevation(content.get('elevation', 0))
+  content['formatted_routes'] = format_routes(content.get('routes'))
 
   text = commonmark.commonmark(text)  # , extensions = ['meta'])
   return (content, text)

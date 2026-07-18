@@ -55,4 +55,19 @@ location:
         self.assertEqual(len(data), 1)
         self.assertEqual(data['date'], '2021-10-10')
 
+    def test_routes_are_formatted(self):
+        tpl = """---
+routes:
+  - Dalla Chiesa|UIAA|3+,4-,4-
+  - Godzilla|YDS|5.9
+---
+# Word"""
+        (data, text) = makesite.process_markdown(tpl)
+        self.assertEqual(
+            data['formatted_routes'],
+            '<ul class="routes"><li><strong>Dalla Chiesa</strong> '
+            '<span class="route-system">UIAA</span> &mdash; 3 pitches: '
+            '3+, 4-, 4-</li><li><strong>Godzilla</strong> '
+            '<span class="route-system">YDS</span> &mdash; 1 pitch: '
+            '5.9</li></ul>')
 
