@@ -2636,6 +2636,18 @@
 	]
       },
       {
+        "name": "Mount Whitney",
+        "location": [
+          36.57867, -118.29211
+	]
+      },
+      {
+        "name": "Mount Muir",
+        "location": [
+          36.56474, -118.29125
+	]
+      },
+      {
         "name": "Tuolumne Meadows",
         "location": [
           37.87523690681244,
