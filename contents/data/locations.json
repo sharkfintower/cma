@@ -1516,6 +1516,30 @@
         ]
       },
       {
+        "name": "Deep Lake",
+        "location": [
+          42.71946, -109.17176
+        ]
+      },
+      {
+        "name": "Haystack Mountain",
+        "location": [
+          42.72547, -109.16571
+        ]
+      },
+      {
+        "name": "Steeple Peak",
+        "location": [
+          42.71480, -109.15908
+        ]
+      },
+      {
+        "name": "East Temple Peak",
+        "location": [
+          42.70975, -109.15642
+        ]
+      },
+      {
         "name": "CDT Night 136",
         "location": [
           42.79092, -109.24900
