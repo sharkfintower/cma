@@ -235,7 +235,7 @@ we marched back to camp and settled on a non-technical scramble
 objective: the ridge over Deep Lake Dome to East Temple.
 
 {% image /cmaimages/2026/28_IMG_0196.jpg %}
-*Two climbers on the first technical pitch of the Middle
+*Two climbers on the first technical pitch of the Minor
 Dihedral (5.9).*
 
 This was great fun. I really enjoy the route-finding process...neither
