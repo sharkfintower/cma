@@ -2666,6 +2666,18 @@
 	]
       },
       {
+        "name": "Mammoth Mountain",
+        "location": [
+          37.63052, -119.03255
+	]
+      },
+      {
+        "name": "White Mountain",
+        "location": [
+          37.63413, -118.25572
+	]
+      },
+      {
         "name": "Mount Whitney",
         "location": [
           36.57867, -118.29211
