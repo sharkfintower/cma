@@ -2606,6 +2606,12 @@
     "region": "Wyoming",
     "locations": [
       {
+        "name": "Table Mountain",
+        "location": [
+          43.74676, -110.85185
+	]
+      },
+      {
         "name": "Grand Teton",
         "location": [
           43.74104154665051,
