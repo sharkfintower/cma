@@ -1354,6 +1354,36 @@
         ]
       },
       {
+        "name": "Kersey Lake",
+        "location": [
+          45.02821, -109.84084
+        ]
+      },
+      {
+        "name": "Russell Lake",
+        "location": [
+          45.06145, -109.79038
+        ]
+      },
+      {
+        "name": "Fossil Lake",
+        "location": [
+          45.09168, -109.79033
+        ]
+      },
+      {
+        "name": "Echo Lake",
+        "location": [
+          45.13045, -109.74867
+        ]
+      },
+      {
+        "name": "Rainbow Lake",
+        "location": [
+          45.13556, -109.69206
+        ]
+      },
+      {
         "name": "Pine Creek",
         "location": [
           45.49815, -110.52201
